@@ -3,6 +3,6 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
+        classification: 3
+        kaggle: 3        
         anomaly detection: 1
